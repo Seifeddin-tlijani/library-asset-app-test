@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
 
-public interface LibraryAssetRepositor extends JpaRepository<LibraryAsset,Long> {
+public interface LibraryAssetRepository extends JpaRepository<LibraryAsset,Long> {
     LibraryAsset findByAssetCode(String assetCode);
     List<LibraryAsset> findByAssetTitle(String assetTitle);
     List<LibraryAsset> findByCreatorName(String assetCreator);
