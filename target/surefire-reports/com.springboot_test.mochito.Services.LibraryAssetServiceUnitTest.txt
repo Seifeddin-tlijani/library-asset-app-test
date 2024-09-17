@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.springboot_test.mochito.Services.LibraryAssetServiceUnitTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.577 s -- in com.springboot_test.mochito.Services.LibraryAssetServiceUnitTest

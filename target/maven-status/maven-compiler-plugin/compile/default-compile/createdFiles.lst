@@ -1,0 +1,8 @@
+com\springboot_test\mochito\entities\LibraryAsset.class
+com\springboot_test\mochito\MochitoApplication.class
+com\springboot_test\mochito\entities\LibraryAsset$LibraryAssetBuilder.class
+com\springboot_test\mochito\DTOs\AssetAttributesDTO.class
+com\springboot_test\mochito\Services\LibraryAssetService.class
+com\springboot_test\mochito\DTOs\AssetAttributesDTO$AssetAttributesDTOBuilder.class
+com\springboot_test\mochito\enums\EntityCharacteristics.class
+com\springboot_test\mochito\Repositories\LibraryAssetRepository.class
